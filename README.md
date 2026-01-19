@@ -23,6 +23,7 @@ In the latest version of the project, I optimized data retrieval using advanced 
 
 
 📁 File Structure
+
 stablecoin_analysis.sql: The optimized SQL code.
 
 README.md: Documentation of the project and analysis of the results.
