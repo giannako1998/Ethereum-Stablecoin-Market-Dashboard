@@ -8,6 +8,7 @@ This is a data analysis project where I track the activity of the two biggest st
 ## 📸 Preview
 <img width="1054" height="480" alt="image" src="https://github.com/user-attachments/assets/b084dc64-8f2d-4888-9535-d12d6cab8dbb" />
 
+
 🛠️ Technical Approach
 
 In this project, I moved beyond basic data retrieval to implement high-performance SQL logic:
@@ -23,7 +24,11 @@ Market Dominance: Identifies which stablecoin is preferred for large-scale trans
 Volatility Trends: Monitors how transfer volumes react during periods of market stress or significant price movements in the broader crypto market.s.
 
 🛠️ Tech Stack
+
 Query Language: DuneSQL (PostgreSQL-based)
+
 Data Source: Ethereum Blockchain (On-chain data) 
+
 Platform: Dune Analytics 
+
 Tools: SQL | Git/GitHub 
